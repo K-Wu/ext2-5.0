@@ -1,0 +1,7 @@
+.vs/
+.idea/
+*.o
+*.ko
+*.mod.c
+Module.symvers
+modules.order
